@@ -14,7 +14,7 @@ If they are helpful in your research, please cite the following information:
   keywords={Tuning;Roads;Vehicle dynamics;Energy efficiency;Cost function;Bayes methods;Axles;vehicle platoon;combined control;Bayesian optimization;model predictive control},
   doi={10.1109/TIV.2024.3397812}
 }
-'''
+```
 ## introduction
 It's a verification of the Bayesian Optimization (BO) -tuned model predictive control (MPC) algrithom. 
 The algrithom is designed for a vehicle platoon system. 
