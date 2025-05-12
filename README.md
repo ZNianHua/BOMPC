@@ -2,7 +2,7 @@
 Co-simulation result of "Performance and Energy Efficiency Oriented Control with Automatic  Co-tuning for 2-D Vehicle Platoon System via Bayesian Optimization"
 ## citation
 If they are helpful in your research, please cite the following information:
-      '''latex
+      ```bibtex
       @ARTICLE{10521806,
         author={Zhang, Nianhua and Nazari, Shima and Chen, Jicheng and Xu, Xiangyang and Zhang, Hui},
         journal={IEEE Transactions on Intelligent Vehicles}, 
