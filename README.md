@@ -8,11 +8,12 @@ If they are helpful in your research, please cite the following information:
   journal={IEEE Transactions on Intelligent Vehicles}, 
   title={Bayesian Optimization for Automatic Tuning of an Energy Aware 2-D Vehicle Platoon}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-12},
-  keywords={Tuning;Roads;Vehicle dynamics;Energy efficiency;Cost function;Bayes methods;Axles;vehicle platoon;combined control;Bayesian optimization;model predictive control},
-  doi={10.1109/TIV.2024.3397812}
+  volume={9},
+  number={11},
+  pages={7380-7391},
+  keywords={Tuning;Roads;Vehicle dynamics;Energy efficiency;Cost function;Bayes methods;Axles;Vehicle platoon;combined control;Bayesian optimization;model predictive control},
+  doi={10.1109/TIV.2024.3397812}}
+
 }
 ```
 ## introduction
